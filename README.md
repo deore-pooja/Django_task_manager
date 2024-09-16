@@ -77,10 +77,7 @@ Here is a list of key API endpoints:
 
 ## Demo
 
-<video width="320" height="240" controls>
-  <source src="https://raw.githubusercontent.com/deore-pooja/Django_task_manager/master/Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://raw.githubusercontent.com/deore-pooja/Django_task_manager/master/Demo.mp4
 
 
 Authentication
