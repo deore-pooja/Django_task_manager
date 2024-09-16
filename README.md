@@ -75,6 +75,14 @@ The application should now be running at http://127.0.0.1:8000/.
 API Endpoints
 Here is a list of key API endpoints:
 
+## Demo
+
+<video width="320" height="240" controls>
+  <source src="https://raw.githubusercontent.com/deore-pooja/Django_task_manager/master/Demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 Authentication
 Register: POST /api/register/
 Request: {"username": "your_username", "password": "your_password"}
