@@ -77,6 +77,8 @@ Here is a list of key API endpoints:
 
 ## Demo
 
+https://github.com/user-attachments/assets/2fc1e15f-531a-4a04-bdc1-d5f5077c6777
+
 https://raw.githubusercontent.com/deore-pooja/Django_task_manager/master/Demo.mp4
 
 
